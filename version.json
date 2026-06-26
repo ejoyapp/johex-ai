@@ -1,8 +1,8 @@
 {
-  "version": "1.0.0",
-  "url": "https://github.com/ejoyapp/johex-ai/releases/download/v1.0.0/johex_ai_core_v1.0.0.dat",
-  "hash": "5877a343ae7b5077df1b4b1cf6fbd95675b8633ab445cb043e53fb703742fa02",
+  "version": "1.0.1",
+  "url": "https://github.com/ejoyapp/johex-ai/releases/download/v1.0.1/johex_ai_core_v1.0.1.dat",
+  "hash": "93bc3d1ebbe8aa27fd195c246a993aac27a88742a753143044063ff39a51d906",
   "force_update": false,
   "release_notes": "Init",
-  "publish_date": "2026-06-24T10:00:00Z"
+  "publish_date": "2026-06-26T10:00:00Z"
 }
