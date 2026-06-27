@@ -2,7 +2,7 @@
 
 🌐 **語言**
 
-[English](../../SETUP.md) | [简体中文](SETUP.zh-CN.md) | [繁體中文（台灣）](SETUP.zh-TW.md) | **繁體中文（香港）** | [日本語](SETUP.ja.md) | [한국어](SETUP.ko.md) | [Français](SETUP.fr.md) | [Deutsch](SETUP.de.md)
+[English](../../setup.md) | [简体中文](SETUP.zh-CN.md) | [繁體中文（台灣）](SETUP.zh-TW.md) | **繁體中文（香港）** | [日本語](SETUP.ja.md) | [한국어](SETUP.ko.md) | [Français](SETUP.fr.md) | [Deutsch](SETUP.de.md)
 
 ---
 
